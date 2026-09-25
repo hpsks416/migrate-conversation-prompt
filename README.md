@@ -1,3 +1,5 @@
+> ⚠️ **本仓库已废弃**：内容已并入 [agent-deploy](https://github.com/hpsks416/agent-deploy) 的 skills/migrate-conversation-prompt/ 子目录，请以 agent-deploy 为准。本仓库保留仅供历史归档。
+
 # migrate-conversation-prompt
 
 为已迁移到 DSH 工作区的领域/项目，生成可直接粘贴到「新建会话」的提示词，两类各一条：
@@ -26,3 +28,4 @@
 ## License
 
 MIT License. See [LICENSE](LICENSE).
+
